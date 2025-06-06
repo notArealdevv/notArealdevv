@@ -33,6 +33,3 @@ B.S. in Mathematics & Computer Science
 
 ---
 
-## 📫 Connect with Me
-
-[LinkedIn](#) | [Email](mailto:biraj@example.com)

@@ -8,18 +8,9 @@ B.S. in Mathematics & Computer Science
 
 ---
 
-## 🧠 What I Know
-
-- 💻 **Languages**: Python, SQL  
-- 📊 **Data Tools**: Excel, Anaconda, Jupyter Notebook  
-- 📦 **Python Libraries**: `numpy`, `pandas`, `matplotlib`  
-- 🧠 **Concepts**: Data Cleaning, EDA, Statistical Analysis  
-
----
-
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight)
 
 ---
 

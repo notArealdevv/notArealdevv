@@ -1,33 +1,40 @@
-# 👋 Hi there, I'm Biraj Poudel!
+# Biraj Poudel
 
-Welcome to my GitHub! I'm currently diving deep into the world of **Data Science** and building projects that combine statistics, programming, and real-world data.
+B.S. in Mathematics & Computer Science
 
-## 🧠 What I'm Learning
-I'm passionate about using data to uncover insights and tell compelling stories. Right now, I'm sharpening my skills in:
-- 📊 **Data Analysis** & **Visualization**
-- 📈 **Python for Data Science**
-- 🧮 **Statistical Thinking & Inference**
-- 💻 **SQL** for querying databases
+- Sophomore @ The University of Southern Mississippi
+- Aspiring Data Scientist & Analyst
 
-## 🛠️ Tools & Technologies
-Here are some of the tools and libraries I actively use:
-
-- 💻 **Languages**: Python, SQL  
-- 📦 **Python Libraries**: `numpy`, `pandas`, `matplotlib`  
-- 🧪 **Environments**: Anaconda, Jupyter Notebook  
-- 📊 **Other Tools**: Excel, Git & GitHub  
-
-## 🚧 Projects In Progress
-I'm working on small data projects to practice:
-- Cleaning messy data 🧼  
-- Visualizing trends 📉  
-- Analyzing real-world datasets 📊  
-
-Stay tuned — more to come!
-
-## 📫 Let's Connect!
-Feel free to reach out or check out what I’m building.
 
 ---
 
-🔗 [LinkedIn](#) | 📧 biraj@example.com *(replace with your actual links)*  
+## 🧠 What I Know
+
+- 💻 **Languages**: Python, SQL  
+- 📊 **Data Tools**: Excel, Anaconda, Jupyter Notebook  
+- 📦 **Python Libraries**: `numpy`, `pandas`, `matplotlib`  
+- 🧠 **Concepts**: Data Cleaning, EDA, Statistical Analysis  
+
+---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ⚙️ Tools & Frameworks
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-Math-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphs-003366?style=for-the-badge&logo=matplotlib)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+[LinkedIn](#) | [Email](mailto:biraj@example.com)

@@ -16,16 +16,18 @@ B.S. in Mathematics & Computer Science
 ## ⚙️ Tools & Frameworks
 
 ### 🖥 Programming Languages
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=F29111)
 
-### 🧰 Additional Tools
-![NumPy](https://img.shields.io/badge/NumPy-Math-gray?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data-black?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphs-darkblue?style=for-the-badge&logo=matplotlib)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-Environment-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 🧰 Additional Tools & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🧪 Environments & Platforms
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-3BAF4A?style=for-the-badge&logo=anaconda&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 

@@ -8,12 +8,9 @@ B.S. in Mathematics & Computer Science
 
 ---
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight)
 
 ---
-
-⚙️ Tools & Frameworks
 
 🖥 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)

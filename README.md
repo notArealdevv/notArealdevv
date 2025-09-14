@@ -1,6 +1,6 @@
 Biraj Poudel
 
-B.S. in Mathematics & Computer Science
+B.S. in Mathematics
 
 - Sophomore @ The University of Southern Mississippi
 - Aspiring Data Scientist & Analyst

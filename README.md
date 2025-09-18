@@ -8,7 +8,8 @@ B.S. in Mathematics
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight)
+[![My Top Langs](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 

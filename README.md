@@ -16,11 +16,6 @@ B.S. in Mathematics
 ---
 
 <p align="center">
-  <!-- Smooth wave animation -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3BAF4A&height=100&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="header"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=F29111"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>

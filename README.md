@@ -16,7 +16,8 @@ B.S. in Mathematics
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3BAF4A&width=500&lines=Python;SQL;NumPy;Pandas;Matplotlib;Jupyter;Anaconda;Excel" alt="Tech Stack Animation" />
+  <!-- Smooth wave animation -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3BAF4A&height=100&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">

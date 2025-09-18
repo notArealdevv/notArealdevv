@@ -8,10 +8,8 @@ B.S. in Mathematics
 
 ---
 
-🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight&hide_border=true)
 
-📊 GitHub Stats
 ![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=notArealdevv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 

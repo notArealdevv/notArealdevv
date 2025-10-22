@@ -26,8 +26,9 @@ B.S. in Mathematics
 
 
 
+## 🐍 Activity & Contributions
 
-![My GitHub Contribution Snake](https://raw.githubusercontent.com/<notArealdevv>/output/github-snake.svg)
+I believe collaboration sparks innovation. If you've got ideas, feedback, or opportunities to work together, feel free to reach out.
 
-
+![My GitHub Contribution Snake](https://raw.githubusercontent.com/notArealdevv/notArealdevv/output/github-snake.svg)
 

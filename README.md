@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Mathematics+%26+Economics+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 🎓 B.S. Mathematics & Applied Economics | University of Southern Mississippi
-**President's List • Dean's List • Full Academic Scholarship**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 

@@ -6,12 +6,7 @@ B.S. in Mathematics
 - Aspiring Data Scientist & Analyst
 
 
----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight&hide_border=true)
-
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>

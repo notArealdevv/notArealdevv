@@ -1,0 +1,44 @@
+name: Generate Contribution Snake
+
+on:
+  # Run this action on a schedule (e.g., every 24 hours)
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight UTC
+  
+  # Allow manual triggering from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        # This is the action that does the magic!
+        uses: platane/snk@v3
+        with:
+          # Your GitHub username.
+          # The ${{ github.repository_owner }} variable automatically gets your username.
+          github_user_name: ${{ github.repository_owner }}
+
+          # A list of file paths to output the SVG to.
+          # This will create a file named 'github-snake.svg' in the 'dist' directory.
+          outputs: dist/github-snake.svg
+        
+        # We need this GitHub token so the action can commit the new SVG to your repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Snake SVG to Output Branch
+        # This step commits the generated SVG to a special branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # The directory where the 'github-snake.svg' file is
+          build_dir: dist
+          # The branch to push the file to. 'output' is a good name.
+          target_branch: output
+          # This is needed to authorize the push
+          token: ${{ secrets.GITHUB_TOKEN }}

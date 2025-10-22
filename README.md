@@ -1,130 +1,86 @@
+<div align="center">
+
 # 👋 Hi, I'm Biraj Poudel
 
-<div align="center">
-  
-### 📊 Data Science Enthusiast | Mathematics & Applied Economics Student
-**University of Southern Mississippi** | Class of 2028 | GPA: 4.0
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Mathematics+%26+Economics+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-*Transforming data into actionable insights through mathematics and machine learning*
+### 🎓 B.S. Mathematics & Applied Economics | University of Southern Mississippi
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biraj.poudel@usm.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/notArealdevv)
-[![Location](https://img.shields.io/badge/Hattiesburg,_MS-00599C?style=flat-square&logo=google-maps&logoColor=white)]()
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🛠️ Tech Stack
 
-I'm a sophomore pursuing a B.S. in Mathematics with a focus on Applied Economics at the University of Southern Mississippi. As a **President's List** and **Dean's List** student with a **4.0 GPA**, I'm passionate about leveraging mathematical principles and programming to solve real-world problems through data science and analytics.
+<div align="center">
 
-🏆 **Academic Excellence Scholarship** recipient (full tuition for four years)
-
----
-
-## 🛠️ Technical Arsenal
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Programming & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=F29111"/>
-</p>
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=F29111"/>
 
 ### Data Science & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
+### Visualization
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-### Data Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Highlights
 
-### 🎯 Customer Churn Prediction Model
-*Python | Scikit-learn | Machine Learning*
+<div align="center">
 
-Built a classification model to predict customer churn for a telecommunications dataset with focus on business impact.
+| 🎓 Education | 💼 Experience | 📜 Certifications |
+|:---:|:---:|:---:|
+| **USM** Mathematics | **Orchid CS Club** President | **Google Data Analytics** |
+| Applied Economics | Led Coding Workshops | Coursera Certified |
+| Class of 2028 | Mentored Students | Full Stack Analytics |
 
-- 🔧 **Feature Engineering**: Performed advanced feature selection and engineering techniques
-- ⚖️ **Class Balancing**: Addressed imbalanced classes using SMOTE and sampling techniques
-- 🤖 **Model Development**: Implemented and compared Logistic Regression and Random Forest classifiers
-- 📈 **Optimization**: Enhanced model accuracy through hyperparameter tuning and cross-validation
-- ✅ **Result**: Achieved significant improvement in prediction accuracy for business decision-making
-
-### 🎬 Movie Recommendation System
-*Python | Pandas | Collaborative Filtering*
-
-Developed an intelligent recommendation engine that suggests personalized movie choices based on user preferences.
-
-- 📊 **Large-Scale Data Processing**: Efficiently handled and processed large movie rating datasets
-- 🧮 **Similarity Algorithms**: Implemented cosine similarity and Pearson correlation for user/item matching
-- 🔬 **Matrix Factorization**: Applied SVD and ALS techniques to optimize recommendation quality
-- 🎯 **Collaborative Filtering**: Built both user-based and item-based filtering approaches
-- 💡 **Impact**: Successfully delivered personalized recommendations with high relevance scores
-
----
-
-## 🏆 Certifications & Achievements
-
-- 📜 **Google Data Analytics Certificate** (Coursera) - Professional certification in data analysis
-- 🥇 **President's List** - Top academic performance recognition
-- 🥈 **Dean's List** - Consistent academic excellence
-- 🎓 **Academic Excellence Scholarship** - Full tuition coverage for four years at USM
-
----
-
-## 👥 Leadership Experience
-
-### President | Orchid CS Club
-*Bharatpur, Nepal*
-
-Led initiatives to foster technical education and collaboration within the student community:
-- 🎓 Organized hands-on coding workshops for 50+ students
-- 👨‍🏫 Mentored aspiring programmers in Python and data structures
-- 🤝 Coordinated inter-college tech events and hackathons
-- 🌟 Built a collaborative learning environment for technology enthusiasts
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📚 Deepening expertise in **machine learning algorithms** and **statistical modeling**
-- 🔍 Exploring **natural language processing** and **deep learning** applications
-- 💼 Building a comprehensive **data science portfolio** with real-world projects
-- 🤝 Seeking **internship opportunities** in data science and analytics
-- 📊 Learning advanced **data visualization** and **storytelling** techniques
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Building ML models & data pipelines
+- 🌱 Exploring deep learning & NLP
+- 💡 Creating data visualizations
+- 🤝 Open to internship opportunities
+- 📊 Expanding my data science portfolio
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=notArealdevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notArealdevv&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=notArealdevv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   
@@ -134,32 +90,20 @@ Led initiatives to foster technical education and collaboration within the stude
 
 ---
 
-## 💬 Let's Collaborate!
-
-I'm always excited to connect with fellow data enthusiasts, researchers, and professionals! Whether you're interested in:
-
-- 🤝 **Collaborating** on data science projects
-- 💡 **Discussing** machine learning techniques and best practices
-- 🎓 **Sharing** learning resources and opportunities
-- 💼 **Exploring** internship or research opportunities
-- ☕ **Connecting** over shared interests in data and mathematics
-
-**Don't hesitate to reach out!** The best solutions come from diverse perspectives and collaboration.
+## 🤝 Let's Connect!
 
 <div align="center">
 
-📧 **Email**: [biraj.poudel@usm.edu](mailto:biraj.poudel@usm.edu)  
-📱 **Phone**: (945) 335-5187  
-🏠 **Location**: Hattiesburg, MS
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
-</div>
+**Open to collaborations, projects, and opportunities!**
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biraj.poudel@usm.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notArealdevv)
+[![Phone](https://img.shields.io/badge/Phone-00599C?style=for-the-badge&logo=phone&logoColor=white)](tel:9453355187)
 
-<div align="center">
-  
-*"In God we trust, all others must bring data."* - W. Edwards Deming
-
-**⭐ If you find my projects interesting, feel free to star them!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>

@@ -27,7 +27,7 @@ B.S. in Mathematics
 
 
 
-![My GitHub Contribution Snake](https://raw.githubusercontent.com/<notArealdevv>/<notArealdevv>/output/github-snake.svg)
+![My GitHub Contribution Snake](https://raw.githubusercontent.com/<notArealdevv>/output/github-snake.svg)
 
 
 

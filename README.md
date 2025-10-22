@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Mathematics+%26+Economics+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 🎓 B.S. Mathematics & Applied Economics | University of Southern Mississippi
-**President's List • Dean's List • Full Academic Scholarship**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -39,30 +38,45 @@
 
 ---
 
-## 📊 Data Science Pipeline
+## 📊 My Data Science Journey
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph LR
-    A[📥 Data Collection] -->|Clean & Process| B[🔧 Data Preparation]
-    B -->|Explore & Visualize| C[📈 EDA]
-    C -->|Feature Engineering| D[🛠️ Model Building]
-    D -->|Train & Test| E[🤖 ML Models]
-    E -->|Evaluate & Tune| F[✅ Deployment]
-    
-    style A fill:#667BC6,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#DA7297,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#FADA7A,stroke:#333,stroke-width:2px,color:#000
-    style D fill:#82CD47,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#54C392,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#4C3BCF,stroke:#333,stroke-width:2px,color:#fff
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+### 🔄 From Data to Insights
 
-**My Journey**: Transforming Raw Data → Actionable Insights
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/download.png" width="50"/><br>
+<b>Collect</b><br>
+<sub>Gather & Import</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/data-cleaning.png" width="50"/><br>
+<b>Clean</b><br>
+<sub>Process & Prepare</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/analyze.png" width="50"/><br>
+<b>Analyze</b><br>
+<sub>EDA & Visualize</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/><br>
+<b>Model</b><br>
+<sub>Train & Test</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
+<b>Deploy</b><br>
+<sub>Launch & Monitor</sub>
+</td>
+</tr>
+</table>
+
+**Transforming Raw Data into Actionable Insights** 🚀
 
 </div>
 
@@ -84,6 +98,31 @@ graph LR
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+🎓 **Orchid CS Club President** | Organized workshops & mentored students  
+📜 **Google Data Analytics Certified** | Coursera Professional Certificate  
+🎯 **Academic Excellence** | Full scholarship recipient at USM
+
+</div>
+
+---
+
+## 🎮 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notArealdevv&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/notArealdevv/notArealdevv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
 
 ## 🤝 Let's Connect!
 

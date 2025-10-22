@@ -2,9 +2,54 @@
 
 # 👋 Hi, I'm Biraj Poudel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Mathematics+%26+Economics+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Math+%26+Economics+Student+%F0%9F%8E%93;ML+Explorer+%F0%9F%A4%96;Let's+Build+With+Data!+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🎓 B.S. Mathematics & Applied Economics | University of Southern Mississippi
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+---
+
+## 💻 About Me
+```python
+class BirajPoudel:
+    def __init__(self):
+        self.role = "Data Science Student"
+        self.education = "Mathematics & Economics @ USM"
+        self.status = "🎓 President's List | Dean's List | Full Scholarship"
+        self.achievements = {
+            "leadership": "Orchid CS Club President",
+            "certifications": ["Google Data Analytics"],
+            "focus": "Building ML models & data pipelines"
+        }
+        self.interests = [
+            "Machine Learning 🤖",
+            "Deep Learning 🧠",
+            "Data Visualization 📊",
+            "Statistical Modeling 📈"
+        ]
+        self.currently = "Building ML pipelines"
+        self.looking_for = "Internship opportunities 🔍"
+    
+    def say_hi(self):
+        print("Let's build something amazing with data! 🚀")
+    
+    def get_tools(self):
+        return {
+            "languages": ["Python 🐍", "SQL 💾"],
+            "ml_frameworks": ["TensorFlow", "Scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib"],
+            "visualization": ["Tableau", "Jupyter"],
+            "other": ["Git", "Excel"]
+        }
+
+# Initialize
+biraj = BirajPoudel()
+biraj.say_hi()
+# Output: Let's build something amazing with data! 🚀
+```
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -29,20 +74,16 @@
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 The Pipeline
+## 📊 The Data Science Pipeline
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 <table>
 <tr>
@@ -74,76 +115,7 @@
 </tr>
 </table>
 
-**Transforming Raw Data into Actionable Insights** 🚀
-
-</div>
-
----
-
-## 🎯 What I'm Into
-
-<div align="center">
-
-<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left" style="padding-left: 20px;">
-
-```python
-class BirajPoudel:
-    def __init__(self):
-        self.role = "Data Science Student"
-        self.education = "Mathematics & Economics @ USM"
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Visualization",
-            "Statistical Modeling"
-        ]
-        self.currently = "Building ML pipelines"
-        self.looking_for = "Internship opportunities"
-    
-    def say_hi(self):
-        print("Let's build something amazing with data!")
-```
-
-</div>
-
-</div>
-
-<br clear="left"/>
-
----
-
-## 🏆 Recognition
-
-<div align="center">
-
-**Orchid CS Club President** • **Google Data Analytics Certified** • **Full Academic Scholarship**
-
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notArealdevv&theme=tokyonight" alt="Contribution Graph" width="100%"/>
-
-<br><br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=notArealdevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=notArealdevv&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=f7768e&currStreakNum=38bdae&sideNums=70a5fd&currStreakLabel=38bdae&sideLabels=70a5fd&dates=565f89" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=notArealdevv&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 

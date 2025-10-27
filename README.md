@@ -20,16 +20,22 @@ biraj.say_hi()
 ```
 
 
-<!-- 💻 Tech Stack Section -->
-<div class="tech-stack" align="center">
+<div align="center">
   <h3>💻 Tech Stack</h3>
+  <br>
+  
+  <h4>Languages & Databases</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages and Databases"/>
+  </p>
 
-  <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" alt="Tech stack icons">
-  </div>
+  <h4>Data Science & Machine Learning</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,matplotlib,jupyter" alt="Data Science & ML"/>
+  </p>
 
-  <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=mysql,pandas,numpy,scikitlearn,tableau,matplotlib,jupyter,excel" alt="Data tools">
-  </div>
+  <h4>Tools & Platforms</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,tableau,excel" alt="Tools & Platforms"/>
+  </p>
 </div>
-

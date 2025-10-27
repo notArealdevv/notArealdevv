@@ -26,9 +26,6 @@ biraj.say_hi()
   
   <p>
     <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages and Databases"/>
-  </p>
-
-  <p>
     <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,matplotlib,jupyter" alt="Data Science & ML"/>
   </p>
 </div>

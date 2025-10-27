@@ -23,9 +23,7 @@ biraj.say_hi()
 <div align="center">
   <h3>💻 Tech Stack</h3>
   <br>
-  
   <p>
-    <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages and Databases"/>
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,matplotlib,jupyter" alt="Data Science & ML"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,scikitlearn,tensorflow,matplotlib,jupyter" alt="Tech Stack"/>
   </p>
 </div>

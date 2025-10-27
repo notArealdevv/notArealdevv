@@ -18,12 +18,3 @@ class BirajPoudel:
 biraj = BirajPoudel()
 biraj.say_hi()
 ```
-
-
-<div align="center">
-  <h3>💻 Tech Stack</h3>
-  <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,scikitlearn,tensorflow,matplotlib,jupyter" alt="Tech Stack"/>
-  </p>
-</div>

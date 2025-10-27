@@ -1,16 +1,3 @@
-<!-- README.md -->
-
-<h1 align="center">Hey there, I'm Biraj 👋</h1>
-
-<p align="center">
-  <em>Majoring in Mathematics & Economics @ University of Southern Mississippi</em><br>
-  <em>Passionate about Data, Machine Learning, and turning insights into impact 🚀</em>
-</p>
-
----
-
-### 🧠 About Me
-
 ```python
 class BirajPoudel:
     def __init__(self):
@@ -30,6 +17,9 @@ class BirajPoudel:
 
 biraj = BirajPoudel()
 biraj.say_hi()
+```
+
+
 💻 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" />
 <br><br>

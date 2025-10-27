@@ -1,6 +1,3 @@
-
-
-## 💻 About Me
 ```python
 class BirajPoudel:
     def __init__(self):
@@ -39,15 +36,7 @@ biraj.say_hi()
 # Output: Let's build something amazing with data! 🚀
 ```
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 

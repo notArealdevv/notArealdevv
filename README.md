@@ -24,7 +24,7 @@ biraj.say_hi()
 <div align="center">
 
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" /> <br> </br><img src="https://skillicons.dev/icons?i=mysql,pandas,numpy,scikitlearn,tableau,matplotlib,jupyter,excel" />
+<img src="https://skillicons.dev/icons?i=mysql,pandas,numpy,scikitlearn,tableau,matplotlib,jupyter,excel">
 
 </div>
 

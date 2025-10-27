@@ -25,12 +25,8 @@ biraj.say_hi()
 
   <h3>💻 Tech Stack</h3>
 
-  <!-- Core Languages & Tools -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" />
 
-  <br><br>
-
-  <!-- Data & ML Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,pandas,numpy,scikitlearn,tableau,matplotlib,jupyter,excel" />
 
 </div>

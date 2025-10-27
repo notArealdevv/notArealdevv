@@ -2,6 +2,7 @@
 # 📍 University of Southern Mississippi
 # 🚀 Passionate about Machine Learning, Data, and Insights
 
+python
 class BirajPoudel:
     def __init__(self):
         self.role = "Majoring in Mathematics & Economics"

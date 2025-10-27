@@ -33,35 +33,3 @@ biraj.say_hi()
   </div>
 </div>
 
-<!-- 💡 Styling -->
-<style>
-  .tech-stack {
-    margin-top: 30px;
-    text-align: center;
-  }
-
-  .tech-stack h3 {
-    font-size: 1.8rem;
-    color: #ffffff;
-    margin-bottom: 25px;
-    text-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
-  }
-
-  .icon-row {
-    margin: 15px 0;
-  }
-
-  .icon-row img {
-    margin: 10px;
-    border-radius: 20%;
-    background-color: #1a1a1a;
-    padding: 10px;
-    transition: all 0.3s ease-in-out;
-    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
-  }
-
-  .icon-row img:hover {
-    transform: scale(1.15);
-    box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
-  }
-</style>

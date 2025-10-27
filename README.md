@@ -20,7 +20,7 @@ biraj.say_hi()
 ```
 
 
-💻 Tech Stack
+
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github" />
 <br><br>
 
@@ -28,24 +28,4 @@ biraj.say_hi()
 <br><br>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </div>
-🏗️ Current Projects
-🎬 Visualizing Solids of Revolution – A Manim-based Calculus II project
 
-📊 Data-Driven Insights – Using Python and Tableau to explore complex datasets
-
-🧩 ML Pipeline Development – Building reproducible data workflows
-
-🌱 What I’m Learning
-Deep learning architectures (CNNs, RNNs)
-
-Data pipeline automation
-
-Statistical inference and model validation
-
-📫 Connect with Me
-<div align="center">
-
-
-
-</div>
-<p align="center"> <i>"Mathematics is the language of the universe — I just translate it with code." 🧮</i> </p> 

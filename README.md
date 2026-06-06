@@ -19,4 +19,4 @@ biraj = BirajPoudel()
 biraj.say_hi()
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&langs_count=10&theme=radical" alt="Biraj's Top Languages" width="400" />
+![Biraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&langs_count=10&theme=radical)

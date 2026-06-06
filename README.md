@@ -1,7 +1,7 @@
 ```python
 class BirajPoudel:
     def __init__(self):
-        self.role = "Majoring in Mathematics & Economics"
+        self.major = "Majoring in Mathematics & Econometrics"
         self.education = "University of Southern Mississippi"
         self.focus = "Building ML models & data pipelines"
         self.interests = [
@@ -19,4 +19,4 @@ biraj = BirajPoudel()
 biraj.say_hi()
 ```
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevvlayout=compact&langs_count=10&theme=radical
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notArealdevv&layout=compact&langs_count=10&theme=radical" alt="Biraj's Top Languages" width="400" />
